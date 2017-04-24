@@ -1,0 +1,89 @@
+a:hover{
+	text-decoration: none;
+}
+.navbar-default{
+	min-height: 60px;
+}
+.navbar-default .navbar-brand{
+	min-height: 60px;
+	margin-right: 20px; 
+}
+.navbar-default .navbar-nav>li>a{
+	padding-top: 30px;
+	padding-bottom: 22px;
+	min-height: 60px;
+	color: rgb(59,59,59);
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+	background-color: rgba(92, 184, 92, 0.15);
+}
+
+.btn-success{
+	margin-top: 5px;
+	height: 51px;
+	width: 111.69px;
+}
+.btn-success>a{
+	color: white;
+}
+
+#buybuttonTextcolor{
+	color: white;
+}
+#buybutton{
+	background-color: rgb(37, 168, 224);
+}
+
+.jumbotron { 
+	min-height: 500px;
+	background-color: white;
+ }
+
+ #jumbotronright{
+ 	padding-right: 130px;
+ }
+ h2{
+ 	color: rgb(59,59,59);
+ }
+ h4{
+ 	margin-top: 30px;
+ 	color: rgb(59,59,59);
+ }
+#b1{
+	font-size: 1.2em;
+	margin-top: 20px;
+	background-color: rgb(37, 168, 224);
+}
+
+#botleft{
+	margin-left: 100px;
+	max-width: 380px;
+	max-height: 295px;
+
+}
+#botmiddle{
+	margin-left: 2em;
+	max-width: 380px;
+	max-height: 295px;
+}
+#botright{
+	margin-left: 2em;
+	max-width: 380px;
+	max-height: 295px;
+}
+#firstpic, #secpic, #thirdpic{
+	max-width: 359.95px;
+	max-height: 227.02px;
+}
+p{
+	font-weight: 700;
+	font-size: 18px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+#bottomleft<a:hover, #bottommiddle<a:hover, #bottomright<a:hover{
+	text-decoration: none;
+}
+
+
